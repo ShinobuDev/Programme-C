@@ -24,3 +24,4 @@ int main()
 }
 
 // Language: c
+// Path: main3.c
