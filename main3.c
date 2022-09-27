@@ -3,8 +3,7 @@
 //
 #include <stdio.h>
 
-int number_to_roman
-
+int arabic_into_roman(int n)
 
 
 // Language: c
