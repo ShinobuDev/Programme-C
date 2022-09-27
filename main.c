@@ -1,8 +1,6 @@
 //
 // Created by drake on 27/09/2022.
 //
-
-
 #include <stdio.h>
 
 int pythogarian_triplet(int a, int b, int c)
@@ -24,3 +22,6 @@ int main()
         printf("KO : %d, %d et %d ne forment pas un triplet pythagoricien", a, b, c);
     return 0;
 }
+
+// Language: c
+// Path: main.c
