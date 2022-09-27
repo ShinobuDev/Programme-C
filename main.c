@@ -1,3 +1,8 @@
+//
+// Created by drake on 27/09/2022.
+//
+
+
 #include <stdio.h>
 
 int pythogarian_triplet(int a, int b, int c)
